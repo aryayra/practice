@@ -1,0 +1,149 @@
+body{
+    background-color: rgba(52, 255, 133, 1);
+   }
+
+.Outliers-button{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-color:rgba(52, 255, 133, 1);
+    border: none;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.Episodes-button{
+    color: black;
+    background-color:rgba(52, 255, 133, 1);
+    margin-left: 1050px;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.AboutEndeavor-button{
+    color: black;
+    background-color:rgba(52, 255, 133, 1);
+    margin-left: 15px;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.GR-button{
+    color: black;
+    background-color:rgba(52, 255, 133, 1);
+    margin-left: 15px;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.text1{
+    color: black;
+    font-size: 13px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text2{
+    color: black;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: normal;
+    text-align: center;
+}
+
+.text3{
+    color: black;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: normal;
+    text-align: center;
+}
+
+h1, h2{
+    line-height: 0.3;
+}
+
+img{
+    border-radius: 50%;
+    height: 270px;
+    width: 270px;
+    object-fit: cover;
+    margin: auto;
+    display: block;
+}
+
+.text4{
+    color: black;
+    font-size: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text5{
+    color: black;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.icon1-button{
+    height: 40px;
+    width: 40px;
+    border: none;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 610px;
+    background-image: url('app.png');
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.icon2-button{
+    height: 40px;
+    width: 40px;
+    border: none;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 10px;
+    background-image: url('apple.png');
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.icon3-button{
+    height: 40px;
+    width: 40px;
+    border: none;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 10px;
+    background-image: url('app-2.png');
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.icon4-button{
+    height: 40px;
+    width: 40px;
+    border: none;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 10px;
+    background-image: url('app-3.png');
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
